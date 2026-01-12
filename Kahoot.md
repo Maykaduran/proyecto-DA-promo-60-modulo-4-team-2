@@ -43,7 +43,7 @@ Países con altos índices de depresión o alcoholismo, como Finlandia, pueden p
 
 ### Sesgo de muestreo
 
-**3. El WHR utiliza métodos de entrevista diferentes según el país. ¿Qué puede desfavorecer apostarlo todo al muestreo Web/Móvil?**
+**3. El WHR utiliza métodos de entrevista diferentes según el país. ¿Qué puede hacer apostarlo todo al muestreo Web/Móvil?**
 
 A) Exclusión de representatividad a causa de brecha digital.
 
@@ -99,7 +99,7 @@ El informe no ajusta por densidad poblacional. Un país con menos habitantes pue
 
 ### Sesgo de narrativa mediática: ÚLTIMA PREGUNTA
 
-**6. Los medios suelen presentar el WHR como 'el ranking absoluto de los países más felices'. ¿Qué mensaje oculta esta narrativa?**
+**6. Los medios suelen presentar el WHR como 'el ranking absoluto de los países más felices'. ¿Qué mensaje da esta narrativa?**
 
 **A)** La "felicidad" es un concepto estático y universal.
 
